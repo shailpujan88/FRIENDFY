@@ -1,1 +1,1 @@
-# friendify-SE_Project
+# friendify-App-project
